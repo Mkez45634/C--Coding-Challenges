@@ -1,0 +1,15 @@
+C:\Users\mkez4\Documents\C#\BasicExercises\BasicExercises\bin\Debug\net6.0\BasicExercises.exe
+C:\Users\mkez4\Documents\C#\BasicExercises\BasicExercises\bin\Debug\net6.0\BasicExercises.deps.json
+C:\Users\mkez4\Documents\C#\BasicExercises\BasicExercises\bin\Debug\net6.0\BasicExercises.runtimeconfig.json
+C:\Users\mkez4\Documents\C#\BasicExercises\BasicExercises\bin\Debug\net6.0\BasicExercises.dll
+C:\Users\mkez4\Documents\C#\BasicExercises\BasicExercises\bin\Debug\net6.0\ref\BasicExercises.dll
+C:\Users\mkez4\Documents\C#\BasicExercises\BasicExercises\bin\Debug\net6.0\BasicExercises.pdb
+C:\Users\mkez4\Documents\C#\BasicExercises\BasicExercises\obj\Debug\net6.0\BasicExercises.csproj.AssemblyReference.cache
+C:\Users\mkez4\Documents\C#\BasicExercises\BasicExercises\obj\Debug\net6.0\BasicExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkez4\Documents\C#\BasicExercises\BasicExercises\obj\Debug\net6.0\BasicExercises.AssemblyInfoInputs.cache
+C:\Users\mkez4\Documents\C#\BasicExercises\BasicExercises\obj\Debug\net6.0\BasicExercises.AssemblyInfo.cs
+C:\Users\mkez4\Documents\C#\BasicExercises\BasicExercises\obj\Debug\net6.0\BasicExercises.csproj.CoreCompileInputs.cache
+C:\Users\mkez4\Documents\C#\BasicExercises\BasicExercises\obj\Debug\net6.0\BasicExercises.dll
+C:\Users\mkez4\Documents\C#\BasicExercises\BasicExercises\obj\Debug\net6.0\ref\BasicExercises.dll
+C:\Users\mkez4\Documents\C#\BasicExercises\BasicExercises\obj\Debug\net6.0\BasicExercises.pdb
+C:\Users\mkez4\Documents\C#\BasicExercises\BasicExercises\obj\Debug\net6.0\BasicExercises.genruntimeconfig.cache

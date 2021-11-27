@@ -1,0 +1,15 @@
+C:\Users\mkez4\Documents\C#\ConditionalStatementExercises\ConditionalStatementExercises\bin\Debug\net6.0\ConditionalStatementExercises.exe
+C:\Users\mkez4\Documents\C#\ConditionalStatementExercises\ConditionalStatementExercises\bin\Debug\net6.0\ConditionalStatementExercises.deps.json
+C:\Users\mkez4\Documents\C#\ConditionalStatementExercises\ConditionalStatementExercises\bin\Debug\net6.0\ConditionalStatementExercises.runtimeconfig.json
+C:\Users\mkez4\Documents\C#\ConditionalStatementExercises\ConditionalStatementExercises\bin\Debug\net6.0\ConditionalStatementExercises.dll
+C:\Users\mkez4\Documents\C#\ConditionalStatementExercises\ConditionalStatementExercises\bin\Debug\net6.0\ref\ConditionalStatementExercises.dll
+C:\Users\mkez4\Documents\C#\ConditionalStatementExercises\ConditionalStatementExercises\bin\Debug\net6.0\ConditionalStatementExercises.pdb
+C:\Users\mkez4\Documents\C#\ConditionalStatementExercises\ConditionalStatementExercises\obj\Debug\net6.0\ConditionalStatementExercises.csproj.AssemblyReference.cache
+C:\Users\mkez4\Documents\C#\ConditionalStatementExercises\ConditionalStatementExercises\obj\Debug\net6.0\ConditionalStatementExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkez4\Documents\C#\ConditionalStatementExercises\ConditionalStatementExercises\obj\Debug\net6.0\ConditionalStatementExercises.AssemblyInfoInputs.cache
+C:\Users\mkez4\Documents\C#\ConditionalStatementExercises\ConditionalStatementExercises\obj\Debug\net6.0\ConditionalStatementExercises.AssemblyInfo.cs
+C:\Users\mkez4\Documents\C#\ConditionalStatementExercises\ConditionalStatementExercises\obj\Debug\net6.0\ConditionalStatementExercises.csproj.CoreCompileInputs.cache
+C:\Users\mkez4\Documents\C#\ConditionalStatementExercises\ConditionalStatementExercises\obj\Debug\net6.0\ConditionalStatementExercises.dll
+C:\Users\mkez4\Documents\C#\ConditionalStatementExercises\ConditionalStatementExercises\obj\Debug\net6.0\ref\ConditionalStatementExercises.dll
+C:\Users\mkez4\Documents\C#\ConditionalStatementExercises\ConditionalStatementExercises\obj\Debug\net6.0\ConditionalStatementExercises.pdb
+C:\Users\mkez4\Documents\C#\ConditionalStatementExercises\ConditionalStatementExercises\obj\Debug\net6.0\ConditionalStatementExercises.genruntimeconfig.cache
